@@ -8,7 +8,6 @@ numbers = [1,2,3,2,4,4,5,6,3]
 
 newList = []
 
-
 for ele in numbers:
     if(ele not in newList):
         newList.append(ele)
